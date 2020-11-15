@@ -1,0 +1,47 @@
+.resume{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.profilepic{
+	width: 60%;
+}
+.header{
+	text-align: center;
+}
+.bodytext{
+  font-family: 'Open Sans' , sans-serif;
+}
+.headtext{
+  font-family:'Merriweather' , serif;
+}
+.blackexplosion{
+  width: 65%;
+}
+.cphere{
+  width: 80%;
+}
+ul{
+  list-style-type: none;
+}
+
+/* Social Media icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
