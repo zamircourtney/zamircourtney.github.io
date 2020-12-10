@@ -1,0 +1,24 @@
+.header{
+	text-align: center;
+}
+.headtext{
+	font-family:'Merriweather' , serif;
+	color: #EF3108;
+}
+.bodytext{
+	font-family: 'Open Sans' , sans-serif;
+}
+.umdbanner{
+	width: 90%;
+}
+.testudo{
+	width: 95%;
+	align-items: center;
+}
+.caption::before{
+content: "Courtesy of UMD";
+font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+display: block;
+text-align: right;
+}
