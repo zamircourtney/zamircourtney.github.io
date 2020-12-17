@@ -22,3 +22,10 @@ font-size: 12px;
 display: block;
 text-align: right;
 }
+.caption2::before{
+content: "Taken by: Zamir Courtney";
+font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+display: block;
+text-align: right;
+}
